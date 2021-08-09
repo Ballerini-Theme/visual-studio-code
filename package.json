@@ -1,0 +1,21 @@
+{
+    "name": "ballerini-theme",
+    "displayName": "ballerini-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ballerini theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ballerini-theme.json"
+            }
+        ]
+    }
+}
