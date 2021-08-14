@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "ballerini theme",
+                "label": "Ballerini Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ballerini-theme.json"
             }
