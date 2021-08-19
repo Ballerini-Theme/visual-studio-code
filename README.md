@@ -9,6 +9,7 @@ If you want to help with the Ballerini Theme by adding a scope of your favorite 
 
 1. Discover the scope:
 To get the syntax background and foreground. Use a key `Ctrl + Shift + P` then `>Developer: Inspect Editor Tokens and Scopes`. It will open a screen that can inform about the syntax.
+
 ![Discover Scope](./assets/contributionway.gif)
 
 2. Adding in JSON:
