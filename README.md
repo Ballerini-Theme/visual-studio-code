@@ -1,4 +1,4 @@
-![BalleriniTheme](./assets/BalleriniTheme.png)
+![BalleriniTheme](./assets/BALLERINITHEMEv2.png)
 # About the Ballerini Theme ❤️
 
 The Ballerini Theme is a theme for Visual Studio Code. Was made using the color palette [Ballerini](https://github.com/Ballerini-Server/BrandGuide). He is perfect for autumn lovers, with a more pastel tone.
@@ -19,12 +19,12 @@ To get the syntax background and foreground. Use a key `Ctrl + Shift + P` then `
 Once found the language name and syntax, dependent scope. Add setting in JSON, e.g.:
 ```json
 {
-      "name": "haskell variable generic-type",
-      "scope": "variable.other.generic-type.haskell",
-      "settings": {
-        "foreground": "#97d4d9"
-      }
-    }
+  "name": "haskell variable generic-type",
+  "scope": "variable.other.generic-type.haskell",
+  "settings": {
+    "foreground": "#97d4d9"
+  }
+}
 ```
 ### For more information 🏷️
 
