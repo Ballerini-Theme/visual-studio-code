@@ -1,13 +1,26 @@
-# README
-## This is the README for your extension "ballerini-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# About the Theme ❤️
+---
+The Ballerini Theme was made using the color palette [Ballerini](https://github.com/Ballerini-Server/BrandGuide). He is perfect for autumn lovers, with a more pastel tone.
+## Contribution 💡
+---
+This theme was made exclusively for the members who are on our discord server. So in case, you find any errors or see a better form of ordinate colors. Feel free to join our [Discord Server](https://discord.gg/pDbY76q8Qf) to report or make a pull request.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+If you want to help with the Ballerini Theme by adding a scope of your favorite language. Follow the contribution ways ->
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Discover the scope:
+To get the syntax background and foreground. Use a key `Ctrl + Shift + P` then `>Developer: Inspect Editor Tokens and Scopes`. It will open a screen that can inform about the syntax.
+![Discover Scope](/assets/contributionway.gif)
+
+2. Adding in JSON:
+
+
+### For more information 🏷️
+
+* [Get Started with Color Themes on Visual Studio Code](https://code.visualstudio.com/docs/getstarted/themes)
+* 
 
 **Enjoy!**
+
+### Version 🎈
+
+This theme is in version v1.0 Last Edited: 08/2021.
