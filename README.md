@@ -3,7 +3,7 @@
 
 The Ballerini Theme is a theme for Visual Studio Code. Was made using the color palette [Ballerini](https://github.com/Ballerini-Server/BrandGuide). He is perfect for autumn lovers, with a more pastel tone.
 
-Theme creation was done using `Yo Code` with the help of `Themes VSCode One` platform. Later published on [Azure Marketplace]()
+Theme creation was done using `Yo Code` with the help of `Themes VSCode One` platform. Later published on [Azure Marketplace](https://marketplace.visualstudio.com/items?itemName=BalleriniServer.ballerini-theme)
 ## Contribution 💡
 
 This theme was made exclusively for the members who are on our discord server. So in case, you find any errors or see a better form of ordinate colors. Feel free to join our [Discord Server](https://discord.gg/pDbY76q8Qf) to report or make a pull request.
