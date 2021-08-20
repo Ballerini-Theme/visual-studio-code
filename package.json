@@ -17,6 +17,7 @@
         "Code",
         "autumn"
     ],
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.59.0"
     },
