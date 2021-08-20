@@ -1,8 +1,21 @@
 {
     "name": "ballerini-theme",
-    "displayName": "ballerini-theme",
+    "displayName": "Ballerini Theme",
     "description": "",
     "version": "0.0.1",
+    "publisher": "BalleriniServer",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ballerini-Server/Ballerini-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "ballerini",
+        "balleriniserver",
+        "Code",
+        "autumn"
+    ],
     "engines": {
         "vscode": "^1.59.0"
     },
