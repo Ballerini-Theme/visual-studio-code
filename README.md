@@ -13,7 +13,7 @@ If you want to help with the Ballerini Theme by adding a scope of your favorite 
 1. **Discover the scope:**
 To get the syntax background and foreground. Use a key `Ctrl + Shift + P` then `>Developer: Inspect Editor Tokens and Scopes`. It will open a screen that can inform about the syntax, e.g.:
 
-![Discover Scope](DiscoverScope.gif)
+<img src="https://imgur.com/a/KgLIm50">
 
 2. **Adding in JSON:**
 Once found the language name and syntax, dependent scope. Add setting in JSON, e.g.:
@@ -37,4 +37,4 @@ Once found the language name and syntax, dependent scope. Add setting in JSON, e
 
 ### Version 🎈
 
-This theme is in version v1.0 Last Edited: 08/2021.
+This theme is in version v0.1.0 Last Edited: 08/2021.
