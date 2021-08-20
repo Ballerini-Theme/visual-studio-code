@@ -37,4 +37,4 @@ Once found the language name and syntax, dependent scope. Add setting in JSON, e
 
 ### Version 🎈
 
-This theme is in version v0.5.0 Last Edited: 08/2021.
+This theme is in version v0.6.0 Last Edited: 08/2021.
