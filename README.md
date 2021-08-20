@@ -11,7 +11,7 @@ This theme was made exclusively for the members who are on our discord server. S
 If you want to help with the Ballerini Theme by adding a scope of your favorite language. Follow the instructions contribution:
 
 1. **Discover the scope:**
-To get the syntax background and foreground. Use a key `Ctrl + Shift + P` then `>Developer: Inspect Editor Tokens and Scopes`. It will open a screen that can inform about the syntax. e.g.:
+To get the syntax background and foreground. Use a key `Ctrl + Shift + P` then `>Developer: Inspect Editor Tokens and Scopes`. It will open a screen that can inform about the syntax, e.g.:
 
 ![Discover Scope](./assets/DiscoverScope.gif)
 
