@@ -1,4 +1,4 @@
-![ballerini theme](https://github.com/Ballerini-Server/Ballerini-theme/blob/main/assets/BALLERINITHEMEv2.png?raw=true)
+![ballerini theme](https://raw.githubusercontent.com/Ballerini-Server/Ballerini-theme/main/assets/BALLERINITHEMEv2.png?token=APRK7GI2QTAV422XNBT6II3BD44NI)
 # About the Ballerini Theme ❤️
 
 The Ballerini Theme is a theme for Visual Studio Code. Was made using the color palette [Ballerini](https://github.com/Ballerini-Server/BrandGuide). He is perfect for autumn lovers, with a more pastel tone.
@@ -13,7 +13,7 @@ If you want to help with the Ballerini Theme by adding a scope of your favorite 
 1. **Discover the scope:**
 To get the syntax background and foreground. Use a key `Ctrl + Shift + P` then `>Developer: Inspect Editor Tokens and Scopes`. It will open a screen that can inform about the syntax, e.g.:
 
-![](https://github.com/Ballerini-Server/Ballerini-theme/blob/main/assets/DiscoverScope.gif?raw=true)
+![](https://raw.githubusercontent.com/Ballerini-Server/Ballerini-theme/main/assets/DiscoverScope.gif?token=APRK7GN46PO5JNCEWYV3DADBD44QO)
 
 2. **Adding in JSON:**
 Once found the language name and syntax, dependent scope. Add setting in JSON, e.g.:
@@ -37,4 +37,4 @@ Once found the language name and syntax, dependent scope. Add setting in JSON, e
 
 ### Version 🎈
 
-This theme is in version v0.1.0 Last Edited: 08/2021.
+This theme is in version v0.5.0 Last Edited: 08/2021.
