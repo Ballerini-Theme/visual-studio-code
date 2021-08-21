@@ -18,14 +18,16 @@ To get the syntax background and foreground. Use a key `Ctrl + Shift + P` then `
 2. **Adding in JSON:**
 Once found the language name and syntax, dependent scope. Add setting in JSON, e.g.:
 ```json
-{
-  "name": "haskell variable generic-type",
-  "scope": "variable.other.generic-type.haskell",
-  "settings": {
-    "foreground": "#97d4d9"
+"name": "haskell variable generic-type",
+"scope": "variable.other.generic-type.haskell",
+"settings": {
+  "foreground": "#97d4d9"
   }
-}
 ```
+
+## Install 📦
+
+All instructions can be found at [INSTALL.md](./INSTALL.md)
 ### For more information 🏷️
 
 * [Get Started with Color Themes on Visual Studio Code](https://code.visualstudio.com/docs/getstarted/themes)
@@ -34,7 +36,3 @@ Once found the language name and syntax, dependent scope. Add setting in JSON, e
 * [Azure Marketplace](https://azuremarketplace.microsoft.com/pt-br/marketplace/) 
 
 **Enjoy!**
-
-### Version 🎈
-
-This theme is in version v0.6.0 Last Edited: 08/2021.
