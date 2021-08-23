@@ -648,8 +648,8 @@
     {
       "name": "Java Variables",
       "scope": [
-        "token.variable.parameter.java",
-        "token.variable.other.definition.java"
+        "variable.parameter.java",
+        "variable.other.definition.java"
       ],
       "settings": {
         "foreground": "#DB7558"
