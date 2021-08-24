@@ -1,4 +1,4 @@
-![ballerini theme](https://github.com/Ballerini-Server/Ballerini-theme/blob/main/assets/BALLERINITHEMEv2.png)
+![ballerini theme](https://raw.githubusercontent.com/Ballerini-Server/Ballerini-theme/main/assets/BALLERINITHEMEv2.png)
 # About the Ballerini Theme ❤️
 
 The Ballerini Theme is a theme for Visual Studio Code. Was made using the color palette [Ballerini](https://github.com/Ballerini-Server/BrandGuide). He is perfect for autumn lovers, with a more pastel tone.
