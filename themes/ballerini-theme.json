@@ -771,7 +771,15 @@
     },
     {
       "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
-      "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
+      "scope": [
+        "keyword.operator.expression.delete",
+        "keyword.operator.expression.in",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.new",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.void"
+      ],
       "settings": {
         "foreground": "#97d4d9"
       }
@@ -1164,7 +1172,12 @@
     },
     {
       "name": "use statement for other classes",
-      "scope": "support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php,entity.other.alias.php,meta.interface.php",
+      "scope": [
+        "support.other.namespace.use.php",
+        "support.other.namespace.use-as.php",
+        "support.other.namespace.php",
+        "entity.other.alias.php,meta.interface.php"
+      ],
       "settings": {
         "foreground": "#ffcf57"
       }
@@ -2118,7 +2131,7 @@
     "breadcrumb.foreground": "#cccccccc",
     "breadcrumb.focusForeground": "#fff2e7",
     "editorGroupHeader.border": "#1111114a",
-    "editorGroupHeader.tabsBackground": "#222222",
+    "editorGroupHeader.tabsBackground": "#1d1516",
     "editorGroupHeader.tabsBorder": "#261c1e",
     "tab.activeForeground": "#feafbe",
     "tab.border": "#261c1e",
