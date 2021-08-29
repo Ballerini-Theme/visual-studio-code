@@ -2,7 +2,7 @@
     "name": "ballerini-theme",
     "displayName": "Ballerini Theme",
     "description": "Ballerini Theme Official. A dark theme for Visual Studio Code.",
-    "version": "1.1.4",
+    "version": "1.2.4",
     "publisher": "BalleriniServer",
     "bugs": {
         "url": "https://github.com/Ballerini-Server/Ballerini-theme/issues"
