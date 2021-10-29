@@ -1,45 +1,45 @@
 {
-    "name": "ballerini-theme",
-    "displayName": "Ballerini Theme",
-    "description": "Ballerini Theme Official. A dark theme for Visual Studio Code.",
-    "version": "1.2.5",
-    "publisher": "BalleriniServer",
-    "bugs": {
-        "url": "https://github.com/Ballerini-Server/Ballerini-theme/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Ballerini-Server/Ballerini-theme"
-    },
-    "keywords": [
-        "theme",
-        "dark",
-        "ballerini",
-        "balleriniserver",
-        "balleriniTheme",
-        "ballerini Theme",
-        "ballerini server",
-        "Code",
-        "autumn"
-    ],
-    "icon": "icon.png",
-    "galleryBanner": {
-        "color": "#261c1e",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Ballerini Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ballerini-theme.json"
-            }
-        ]
-    }
+  "name": "ballerini-theme",
+  "displayName": "Ballerini Theme",
+  "description": "Ballerini Theme Official. A dark theme for Visual Studio Code.",
+  "version": "1.2.5",
+  "publisher": "BalleriniServer",
+  "bugs": {
+    "url": "https://github.com/Ballerini-Theme/visual-studio-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ballerini-Theme/visual-studio-code"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "ballerini",
+    "balleriniserver",
+    "balleriniTheme",
+    "ballerini Theme",
+    "ballerini server",
+    "Code",
+    "autumn"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#261c1e",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ballerini Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ballerini-theme.json"
+      }
+    ]
+  }
 }
