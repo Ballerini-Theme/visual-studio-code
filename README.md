@@ -13,7 +13,7 @@ If you want to help with the Ballerini Theme by adding a scope of your favorite 
 1. **Discover the scope:**
 To get the syntax background and foreground. Use a key `Ctrl + Shift + P` then `>Developer: Inspect Editor Tokens and Scopes`. It will open a screen that can inform about the syntax, e.g.:
 
-![](https://raw.githubusercontent.com/Ballerini-Theme/visual-studio-code/main/assets/giphy.gif)
+![](https://raw.githubusercontent.com/Ballerini-Theme/visual-studio-code/main/assets/DiscoverScope.gif)
 
 2. **Adding in JSON:**
 Once found the language name and syntax, dependent scope. Add setting in JSON, e.g.:
@@ -33,6 +33,6 @@ All instructions can be found at [INSTALL.md](./INSTALL.md)
 * [Get Started with Color Themes on Visual Studio Code](https://code.visualstudio.com/docs/getstarted/themes)
 * [Plataform to create the theme](https://themes.vscode.one)
 * [Yo Code Documentation](https://vscode.readthedocs.io/en/latest/extensions/yocode/)
-* [Azure Marketplace](https://azuremarketplace.microsoft.com/pt-br/marketplace/) 
+* [Azure Marketplace](https://azuremarketplace.microsoft.com/pt-br/marketplace/)
 
 **Enjoy!**
